@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.container{
+    padding: 10em;
+    padding-left: 500px;
+    padding-right: 500px;
+    
+}
+
+#mold{
+    margin: 0;
+    padding-left: 100px;
+    padding-right: 100px;
+   background-color:rgb(42, 48, 33);
+  
+} 
