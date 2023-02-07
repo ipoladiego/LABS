@@ -14,3 +14,7 @@
    background-color:rgb(42, 48, 33);
   
 } 
+#lamp{
+    cursor: pointer;
+    cursor: hand;
+  }
